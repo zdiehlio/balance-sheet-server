@@ -1,17 +1,14 @@
-# Personalized Balance Sheet Application
+# Personalized Balance Sheet Server
 
-This application is designed with your personal financial health in mind.
+This is an api for the balance sheet application
 
 Before continuing, make sure you have te proper env variables for authenication that were provided for you and place them in the .env file in your server directory
 
 - DB_USERNAME
 - DB_PASSWORD
 
-To get started you will need 2 terminals open, run the following commands:
+To get started run the following commands:
 
-### Terminal 1
-
-- cd server
 - npm install
 - npm run start
 
